@@ -115,6 +115,6 @@ I'm a Computer Science student at **The Westminster College, Lalitpur**, passion
 
 <br/><br/>
 
-[![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0E75B6&style=flat-square&label=)](https://github.com/YOUR_GITHUB_USERNAME)
+
 
 </div>
